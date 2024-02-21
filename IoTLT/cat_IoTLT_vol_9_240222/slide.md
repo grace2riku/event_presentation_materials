@@ -11,7 +11,7 @@ style: |
 # 猫の日開催！ ねこIoTLT vol.9 
 猫も参加するLT会
 
-【Spresense 猫モーラー】
+【Spresense 猫モーラー😺】
 
 2024/2/22
 
@@ -27,6 +27,7 @@ footer: ""
 # 目次
 - 自己紹介
 - 参考資料
+- つくったもの
 
 <!--
 _header: ""
@@ -35,7 +36,7 @@ _footer: ""
 # 自己紹介
 - 名前: りく
 - 年齢: 7才
-- 性別: おとこ♂
+- 性別: おとこの子♂
 - 好きなおもちゃ: じゃらし
 - 好きな食べ物: ねこ福、チュール
 
@@ -46,6 +47,22 @@ _footer: ""
 - 趣味: 宇宙開発（[リーマンサットプロジェクト](https://www.rymansat.com/)広報メンバー）
 - LAPRASポートフォリオ: https://lapras.com/public/k-abe
 - X（Twitter）: @juraruming
+
+# つくったもの
+* **Spresense猫モーラー😺**をつくった。
+* [micro:bitやM5Stackでつくる　ネコと楽しむ　電子ニャン工作](https://shop.rutles.net/?pid=176719621)に掲載のモーラーを参考にした。
+
+* 製作詳細記事は[elchikaの記事](https://elchika.com/article/8fe1b130-163d-480d-9b82-f01a6026fc42/)を参照のこと
+
+![bg right width:600px](img/spresense_moeller.jpg)
+
+
+## ローバー部分について
+* オープンソースのローバーを流用
+Spresense-microROS-Seminar:
+https://github.com/TE-YoshinoriOota/Spresense-microROS-Seminar
+
+* CQ出版 トランジスタ技術2023年4月号で紹介されていたローバー
 
 
 # 参考資料
