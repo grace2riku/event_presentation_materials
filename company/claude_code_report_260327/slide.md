@@ -48,6 +48,27 @@ _footer: ""
 - Twitter: [@juraruming](https://x.com/juraruming)
 
 
+# Claude Codeを使うためにかかるコスト
+
+
+# 事例紹介1: TODO Webアプリ
+
+
+# 事例紹介2: チャット Webアプリ
+
+
+# 事例紹介3: 既存プロダクト<br>（組込みソフトウェア）の分析
+
+
+# Claude Codeを使って嬉しかったこと
+
+
+# Claude Codeを使って困ったこと
+
+
+# Claude Codeの使い方をある程度覚えた今、思っていること
+
+
 # 参考資料
 <!--
 _footer: "" 
