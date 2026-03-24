@@ -50,6 +50,14 @@ _footer: ""
 
 # Claude Codeを使うためにかかるコスト
 
+![bg width:1024px height:640px](img/personal_claude_code_cost.png)
+
+## チーム、エンタープライズ
+![bg width:1024px height:640px](img/team_enterprise_claude_code_cost.png)
+
+## 私のプラン
+![bg width:1024px height:640px](img/my_claude_code_cost.png)
+
 
 # 事例紹介1: TODO Webアプリ
 
