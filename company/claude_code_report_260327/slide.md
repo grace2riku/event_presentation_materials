@@ -66,6 +66,26 @@ https://github.com/grace2riku/ai-chat
 https://ai-chat-1093986561582.asia-northeast1.run.app
 
 
+## 試したこと
+■MCP 
+Claude Codeと他のアプリケーションとのやりとりを仲介してくれる通信規格
+- Context7
+- Playwright
+- Serena
+
+---
+
+■要件定義
+- Claude Codeと共同して行い、CLAUDE.mdにまとめる
+
+■タスクの管理
+- 要件定義した内容を実現するための実行計画を立てる。
+  - TODO.mdが作成された。チェックボックス付き
+
+■実装
+- TODO.mdを元に実装してもらう。
+
+
 # 事例紹介2: 営業日報システム Webアプリ
 
 
