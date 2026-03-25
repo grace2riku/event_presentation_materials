@@ -24,8 +24,8 @@ footer: ""
 # 目次
 - 自己紹介
 - Claude Codeを使うためにかかるコスト
-- 事例紹介1: TODO Webアプリ
-- 事例紹介2: チャット Webアプリ
+- 事例紹介1: チャット Webアプリ
+- 事例紹介2: 営業日報システム Webアプリ
 - 事例紹介3: 既存プロダクト（組込みソフトウェア）の分析
 - Claude Codeを使って嬉しかったこと
 - Claude Codeを使って困ったこと
@@ -43,9 +43,8 @@ _footer: ""
 エンジニアリング事業管掌　設計統括本部
 第2電子・制御設計本部　第1設計部　5G
 - 医療機器の組込みソフトウェア開発。C言語。
-- 趣味: 宇宙開発（[リーマンサットプロジェクト](https://www.rymansat.com/)広報メンバー）
 - LAPRASポートフォリオ: https://lapras.com/public/k-abe
-- Twitter: [@juraruming](https://x.com/juraruming)
+- X: [@juraruming](https://x.com/juraruming)
 
 
 # Claude Codeを使うためにかかるコスト
@@ -60,6 +59,11 @@ _footer: ""
 
 
 # 事例紹介1: チャット Webアプリ
+GitHubリポジトリ：
+https://github.com/grace2riku/ai-chat
+
+デプロイ先：
+https://ai-chat-1093986561582.asia-northeast1.run.app
 
 
 # 事例紹介2: 営業日報システム Webアプリ
