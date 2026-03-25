@@ -59,10 +59,10 @@ _footer: ""
 ![bg width:1024px height:640px](img/my_claude_code_cost.png)
 
 
-# 事例紹介1: TODO Webアプリ
+# 事例紹介1: チャット Webアプリ
 
 
-# 事例紹介2: チャット Webアプリ
+# 事例紹介2: 営業日報システム Webアプリ
 
 
 # 事例紹介3: 既存プロダクト<br>（組込みソフトウェア）の分析
