@@ -128,6 +128,13 @@ https://github.com/grace2riku/daily-report
 ---
 ■CI/CDの設定
 
+Claude Codeに実装を書いてもらう
+→プッシュ前にリンター・テストを実行
+→デプロイ
+
+の流れを作成した。
+
+
 ---
 ■GitHubのIssueを作成してもらう
 
