@@ -187,6 +187,15 @@ Issue #1を実装してください。use context7
 
 ---
 ⚫︎レビュー
+- プルリクエストをレビューする。
+- プロンプト：
+```
+PR #1の内容をレビューしてください。
+プルリクエストのコメントとしてレビュー内容を記述してください。
+```
+
+- レビューの一例
+https://github.com/grace2riku/daily-report/pull/56#pullrequestreview-3618259265
 
 ---
 ⚫︎GitWorktreeによる並行処理
