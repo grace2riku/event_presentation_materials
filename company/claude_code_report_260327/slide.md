@@ -59,19 +59,17 @@ _footer: ""
 
 
 # 事例紹介1: チャット Webアプリ
-GitHubリポジトリ：
-https://github.com/grace2riku/ai-chat
+- 参考資料1. [Claude CodeによるAI駆動開発入門](https://gihyo.jp/book/2025/978-4-297-15275-8)を写経
 
-デプロイ先：
-https://ai-chat-1093986561582.asia-northeast1.run.app
+- GitHubリポジトリ：
+https://github.com/grace2riku/ai-chat
 
 
 ## 試したこと
 ■MCP 
 Claude Codeと他のアプリケーションとのやりとりを仲介してくれる通信規格
-- Context7
-- Playwright
-- Serena
+- Context7：ライブラリの最新のドキュメントを参照してくれる
+- Playwright：ブラウザを操作してテストを自動化する
 
 ---
 
