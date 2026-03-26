@@ -138,6 +138,18 @@ Claude Codeに実装を書いてもらう
 ---
 ■GitHubのIssueを作成してもらう
 
+```
+現在の仕様と構成に従ってまずIssueを細かく具体的に立ててください。それをghコマンドでGitHubにデプロイしてください。ultrathink
+```
+
+- 「細かく具体的に」が個人的に重要だと思っている。
+  - 大きい粒度のIssueにするとAIの成果物も安定しない（ような気がします）。
+
+---
+作成されたIssue。ラベル（frontend, backend, その他）もつけてくれてありがたい。
+![width:1024px height:640px](img/daily-report_issue.png)
+
+
 ---
 ■実装
 
