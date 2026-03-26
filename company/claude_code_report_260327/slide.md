@@ -82,9 +82,13 @@ Claude Codeと他のアプリケーションとのやりとりを仲介してく
 ■要件定義
 - Claude Codeと共同して行い、CLAUDE.mdにまとめる
 
+- プロンプト：
 ```
 > AIチャットボットを作りたいです。仕様書をあなたと一緒に作りたいので、必要な情報は質問してもらえますか?最後に CLAUDE.md ファイルを出力するのが目的です。
 ```
+
+- CLAUDE.md
+https://github.com/grace2riku/ai-chat/blob/main/CLAUDE.md
 
 ---
 
@@ -92,18 +96,25 @@ Claude Codeと他のアプリケーションとのやりとりを仲介してく
 - 要件定義した内容を実現するための実行計画を立てる。
   - TODO.mdが作成された。チェックボックス付き
 
+- プロンプト：
 ```
 現在のアプリケーションを構築するための実行計画を立ててください。それをTODOリストとしてMarkDownファイルに落としてください。
 ```
+
+- TODO.md
+https://github.com/grace2riku/ai-chat/blob/main/TODO.md
 
 ---
 
 ■実装
 - TODO.mdを元に実装してもらう。
 
+プロンプト：
 ```
 @TODO.md これを元にフェーズ1の実装をお願いします。終わったらチェックボックスにチェックをしてください。use context7
 ```
+
+- ここでuse context7を使っている。CLAUDE.mdでNext.jsを使うと書いている。Next.jsのドキュメントを参照して実装してくれる（らしいです）。
 
 
 # 事例紹介2: 営業日報システム Webアプリ
@@ -117,6 +128,9 @@ https://github.com/grace2riku/daily-report
 ■要件定義をCLAUDE.md に書いてもらう。
 - 設計書（画面設計、テスト、その他）も書いてもらい、CLAUDE.mdから参照する。
 - 要件を実現するための使用技術をCLAUDE.mdに追加した。
+
+- CLAUDE.md
+https://github.com/grace2riku/daily-report/blob/main/CLAUDE.md
 
 ---
 ■ガードレールの用意
@@ -138,18 +152,21 @@ Claude Codeに実装を書いてもらう
 →プッシュ前にリンター・テストを実行
 →デプロイ
 
-の流れを作成した。
+の流れを作成してもらった。
 
 
 ---
 ■GitHubのIssueを作成してもらう
 
+- プロンプト：
 ```
 現在の仕様と構成に従ってまずIssueを細かく具体的に立ててください。それをghコマンドでGitHubにデプロイしてください。ultrathink
 ```
 
-- 「細かく具体的に」が個人的に重要だと思っている。
+- 「細かく具体的に」の指示が個人的に重要だと思っている。
   - 大きい粒度のIssueにするとAIの成果物も安定しない（ような気がします）。
+
+- ultrathinkはよく考えて精度の高い回答を行う。トークンを多く消費する。
 
 ---
 作成されたIssue。ラベル（frontend, backend, その他）もつけてくれてありがたい。
