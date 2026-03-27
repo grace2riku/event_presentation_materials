@@ -287,6 +287,20 @@ https://claude.ai/share/72748cc4-9506-4c36-b651-82a8d189258f
 - 私の専門領域は組込みソフトウェア。組込みソフトウェアでClaude Codeを使ってみたいと思った。
   - マイコン評価ボードのサンプルプログラムをClaude Codeで分析してみることにした。  
 
+---
+- 分析対象ハードウェア：Renesasエレクトロニクス社製マイコン評価ボード　[EK-RA8P1](https://www.renesas.com/ja/design-resources/boards-kits/ek-ra8p1?srsltid=AfmBOoouCCNj-UpwKn4tlAkVmeTkzhKSoCJ5Ae5hZtgCmxRHQFcQpK2t)
+
+- 分析対象ソフトウェア：[ra-fsp-examples](https://github.com/renesas/ra-fsp-examples)の[quickstart_ek_ra8p1_ep](https://github.com/renesas/ra-fsp-examples/tree/master/example_projects/ek_ra8p1/_quickstart/quickstart_ek_ra8p1_ep)
+  - LEDの制御、カメラ撮影画像をLCD表示、LCDタッチなど、クイックスタート的なサンプルプログラム
+
+- 分析結果GitHubリポジトリ：[ra-fsp-examples_ek_ra8p1_analysis](https://github.com/grace2riku/ra-fsp-examples_ek_ra8p1_analysis)
+
+- 分析した背景・理由：
+  - 対象ハードウェアでソフトウェア開発コンテストに出場予定
+  - 対象ハードウェアに搭載されているマイコンを使ったことがない
+  **➡︎**Claude Codeでサンプルコードを分析してみよう!!!
+
+
 # Claude Codeを使って嬉しかったこと
 1. 開発が楽しい
 2. gitコミットログを考えて書かなくなり楽になったこと
