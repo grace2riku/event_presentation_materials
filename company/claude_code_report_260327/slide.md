@@ -305,6 +305,21 @@ https://claude.ai/share/72748cc4-9506-4c36-b651-82a8d189258f
   - A. 想像以上の分析結果を得られた。
   組込みソフトウェアはソフトウェアだけでなく、マイコンのハードウェア的な要素もあるため、Webアプリのような精度の高い分析はできないだろうな・・・と思っていたが、予想を超える分析結果だった。
 
+- 分析結果
+  - 分析結果のレポートは[こちらのリンク](https://github.com/grace2riku/ra-fsp-examples_ek_ra8p1_analysis/tree/main/_quickstart/doc/analysis_report)のマークダウンに出力している
+  - 17個の観点からレポートを出力してもらった
+
+---
+- どのように分析したのか?
+  - 分析してほしい観点をマークダウン形式でファイルに書く
+  - マークダウンを指定し分析を依頼する。以下のようなプロンプトで実行した。
+  - doc/analysis_request/phase01_file_structure.mdは分析してほしい観点が書いてあるファイル
+
+```
+doc/analysis_request/phase01_file_structure.md を読んで解析を実行してください
+```
+
+
 # Claude Codeを使って嬉しかったこと
 1. 開発が楽しい
 2. gitコミットログを考えて書かなくなり楽になったこと
