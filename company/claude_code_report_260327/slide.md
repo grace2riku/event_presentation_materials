@@ -306,7 +306,7 @@ https://claude.ai/share/72748cc4-9506-4c36-b651-82a8d189258f
   組込みソフトウェアはソフトウェアだけでなく、マイコンのハードウェア的な要素もあるため、Webアプリのような精度の高い分析はできないだろうな・・・と思っていたが、予想を超える分析結果だった。
 
 - 分析結果
-  - 分析結果のレポートは[こちらのリンク](https://github.com/grace2riku/ra-fsp-examples_ek_ra8p1_analysis/tree/main/_quickstart/doc/analysis_report)のマークダウンに出力している
+  - 分析結果のレポートは[こちらのリンク](https://github.com/grace2riku/ra-fsp-examples_ek_ra8p1_analysis/tree/main/_quickstart/doc/analysis_report)にマークダウンで出力している
   - 17個の観点からレポートを出力してもらった
 
 ---
@@ -328,11 +328,13 @@ doc/analysis_request/phase01_file_structure.md を読んで解析を実行して
 
 # Claude Codeを使って困ったこと
 1. Claude Codeを使うことが目的になっている時があること
+  - Claude Codeを使って価値あるソフトウェアを作ることが主目的のハズ!
 2. 期待するアウトプットが得られない時があること
 3. Claude Codeのアップデートが早すぎて、新機能のキャッチアップができなくて焦ること
 
 # Claude Codeの使い方をある程度覚えた今、思っていること
-1. エージェント型コーディングAIの使い方ではなく、正しく動く仕組みが重要ではないかと思っていること
+1. エージェント型コーディングAIの使い方ではなく、AIが正しく動く仕組み作りが重要ではないかと思っていること
+  - Harness engineering（ハーネスエンジニアリング）が気になっている・・・。
 
 # 参考資料
 <!--
